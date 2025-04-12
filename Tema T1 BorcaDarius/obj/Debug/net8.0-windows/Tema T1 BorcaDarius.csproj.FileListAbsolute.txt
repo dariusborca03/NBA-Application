@@ -1,0 +1,44 @@
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.exe
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.deps.json
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.runtimeconfig.json
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.pdb
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.ResolveComReference.cache
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema_T1_BorcaDarius.Form1.resources
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.GenerateResource.cache
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.AssemblyInfoInputs.cache
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.AssemblyInfo.cs
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\refint\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.pdb
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.genruntimeconfig.cache
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\ref\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\Tema T1 BorcaDarius\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema_T1_BorcaDarius.Properties.Resources.resources
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.exe
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.deps.json
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.runtimeconfig.json
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Tema T1 BorcaDarius.pdb
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.ResolveComReference.cache
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema_T1_BorcaDarius.Form1.resources
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema_T1_BorcaDarius.Properties.Resources.resources
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.GenerateResource.cache
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.AssemblyInfoInputs.cache
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.AssemblyInfo.cs
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\refint\Tema T1 BorcaDarius.dll
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.pdb
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\Tema T1 BorcaDarius.genruntimeconfig.cache
+C:\Users\Darius\Documents\II projects\NBA Application\Tema T1 BorcaDarius\obj\Debug\net8.0-windows\ref\Tema T1 BorcaDarius.dll
